@@ -9,7 +9,7 @@ API used: https://www.yelp.ca/fusion
 <br>
 Live Google Play Store application link: https://play.google.com/store/apps/details?id=com.HungryHippos&fbclid=IwAR32_nr8bVidEmqura2OcyU7e-6gzmOeCrt2uybWJkzrUHgQ6DHjAL_cn5E
 
-# screenshots
+# Screenshots
 
 <p float="left">
   <img src="../master/screenshots/home_screen_light.png" width="275">
